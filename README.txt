@@ -1,0 +1,1 @@
+This tool allow the user to create multiple primitives and snap it to each vertex of the object selected by the user.
